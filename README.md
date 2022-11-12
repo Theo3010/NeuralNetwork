@@ -12,4 +12,4 @@ Both networks are train on MNIST handwritting digits.
 <img width="463" alt="image" src="https://user-images.githubusercontent.com/74210896/201487420-6e8ceebe-5615-4053-afcb-aa502cb794c2.png">
 
 ### Handwritten 7 and to the left the network guess 7
-![image](https://user-images.githubusercontent.com/74210896/201487457-1cbec38e-3aba-4fe2-98b7-8c47109a146b.png)
+<img width="463" alt="image" src="https://user-images.githubusercontent.com/74210896/201487457-1cbec38e-3aba-4fe2-98b7-8c47109a146b.png">
